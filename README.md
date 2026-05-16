@@ -1,4 +1,4 @@
-# Email Validator
+# Syntax & Domain Validator
 ## Project Overview
 This Email Validator application is a simple tool designed to verify 
 whether a provided email address is valid based on format and, optionally, its domain existence. 
